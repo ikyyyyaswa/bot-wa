@@ -1,0 +1,12 @@
+{
+	"ownername":"Aprii",
+	"ownernumber":"628811929177",
+	"botname":"BOT INDO",
+	"thumbnail":"./settings/logo.jpg",
+	"background":"https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
+	"limit": {
+		"free":20,
+		"premium":1000
+	},
+	"session_name":"./session.json"
+}
